@@ -5,8 +5,6 @@ A web application for all medical-related problems.
 
 ## Tech Stack used:
 
-//Rahul Kumar
-
 <ul>
   <li>HTML</li>
   <li>CSS</li>
